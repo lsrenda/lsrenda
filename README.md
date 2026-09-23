@@ -14,5 +14,5 @@ I am passionate about low-level programming, digital logic, and customizing Linu
 
 ---
 📫 **How to reach me:** 
-email: luciano.s.renda@gmail.com 
-linkedin: https://www.linkedin.com/in/luciano-renda
+* email: luciano.s.renda@gmail.com 
+* linkedin: https://www.linkedin.com/in/luciano-renda
