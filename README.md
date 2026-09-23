@@ -13,4 +13,6 @@ I am passionate about low-level programming, digital logic, and customizing Linu
 * **Tools:** Git, Microsoft Office Suite
 
 ---
-📫 **How to reach me:** email: luciano.s.renda@gmail.com linkedin: https://www.linkedin.com/in/luciano-renda/
+📫 **How to reach me:** 
+email: luciano.s.renda@gmail.com 
+linkedin: https://www.linkedin.com/in/luciano-renda/
